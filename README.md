@@ -4,6 +4,8 @@
 Unity Anime Toolbox is a comprehensive set of packages to support creators uses Unity for Anime & Films.
 Unity Anime Toolbox は、Unityでアニメや映像を制作するための数々の機能を提供する包括的なパッケージです。
 
+- [主要パッケージ](../../wiki/主要パッケージ)
+
 # **始め方**
 ## **Unity Hub テンプレートからはじめる**
 
