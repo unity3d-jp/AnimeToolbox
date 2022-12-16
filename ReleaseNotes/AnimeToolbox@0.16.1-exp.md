@@ -1,5 +1,4 @@
-1. [更新内容 (日本語)](#更新内容)
-1. [Updates (English)](#updates)
+English follows after Japanese.
 
 # 更新内容
 
