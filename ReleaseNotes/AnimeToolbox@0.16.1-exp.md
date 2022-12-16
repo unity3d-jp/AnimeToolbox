@@ -47,7 +47,7 @@
 
 - 【新機能】 PlayableDirectorTimeNode が追加されました。
 
-- ![playable-director-time-node](https://user-images.githubusercontent.com/71803280/208084780-c7c76527-8df2-40a6-9265-4b1f528df42b.png)
+  ![playable-director-time-node](https://user-images.githubusercontent.com/71803280/208084780-c7c76527-8df2-40a6-9265-4b1f528df42b.png)
 
 - 【新機能】 計算を行うノード群が追加されました。
   ![smoothstep-value-node](https://user-images.githubusercontent.com/71803280/208085041-0983908a-103b-4689-9bdb-9f51cfc62b62.png)
@@ -103,23 +103,31 @@
 - Added a button to display the plugin folder from Preferences.
 
 ### **VisualCompositor**
--
-![UAT_018](https://user-images.githubusercontent.com/2647923/206109000-0e35c50b-4c4e-4798-a929-4906ac66be97.png)
+
 - 【New Feature】 Added MaterialIDRenderNode, which renders each material ID in a different color.
+  ![UAT_018](https://user-images.githubusercontent.com/2647923/206109000-0e35c50b-4c4e-4798-a929-4906ac66be97.png)
 
-  ![UAT_019](https://user-images.githubusercontent.com/2647923/206109049-223e24f5-449c-44b2-995a-9024a25db5ad.png)
 - 【New Feature】 Added ObjectIDRenderingNode, which renders each object in a different color.
+  ![UAT_019](https://user-images.githubusercontent.com/2647923/206109049-223e24f5-449c-44b2-995a-9024a25db5ad.png)
+ 
 - 【New Feature】 Added PlayableDirectorTimeNode.
+  ![playable-director-time-node](https://user-images.githubusercontent.com/71803280/208084780-c7c76527-8df2-40a6-9265-4b1f528df42b.png)
 
-  ![UAT_020](https://user-images.githubusercontent.com/2647923/206109109-dbab662a-909e-40b4-ad23-3ccff2343da1.png)
 - 【New Feature】Added a node group for calculations.
 
-  ![UAT_021](https://user-images.githubusercontent.com/2647923/206109138-2b05daf9-a892-423d-be75-c19d2d3045f4.png)
+  ![smoothstep-value-node](https://user-images.githubusercontent.com/71803280/208085041-0983908a-103b-4689-9bdb-9f51cfc62b62.png)
+
 - 【New Feature】 Added a snapshot feature.
 
-  ![UAT_022](https://user-images.githubusercontent.com/2647923/206109189-99e59efd-3f7b-4647-b73b-0cfa28a402ba.png)
+  ![UAT_021](https://user-images.githubusercontent.com/2647923/206109138-2b05daf9-a892-423d-be75-c19d2d3045f4.png)
+
 - Improved the BlurNode feature to allow for radius settings, directional blur, etc.
+
+  ![UAT_022](https://user-images.githubusercontent.com/2647923/206109189-99e59efd-3f7b-4647-b73b-0cfa28a402ba.png)
+ 
 - CoherentNoiseNode now supports Timeline.
 - DropShadowNode now supports Timeline.
 - Changed value node and render state node icons to make them more visible.
 - Points can now be deleted in the SplineMaskEditorWindow from the context menu.
+
+
