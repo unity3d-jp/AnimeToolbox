@@ -10,7 +10,7 @@ Unity Anime Toolbox は、Unityでアニメや映像を制作するための数�
 
 対応するバージョンおよびプラットフォーム：
 1. Unity 2020.3.41f1 以降。
-1. 主に Windows プラットフォーム。Pencil+ 4 Line for Unity や Raytraced Hard Shadow など一部の機能が動作しないため。
+1. 主に Windows プラットフォーム。他のプラットフォームでは一部の機能が動作しないため。
 
 # **始め方**
 
@@ -47,8 +47,11 @@ Unity Anime Toolbox は個々のパッケージのコレクションであり、
 
 # Home
 
-Unity Anime Toolbox is a comprehensive set of packages to support creators uses Unity for Anime & Films.
+The Unity Anime Toolbox is a comprehensive package that provides a variety of features for creating video and animation in Unity.
 
+Supported Versions and Platforms:
+1. Unity 2020.3.41f1 and later.
+1. Mainly Windows platform. Some features do not work in other platforms.
 
 # License
 
