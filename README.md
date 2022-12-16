@@ -63,7 +63,7 @@ Supported Versions and Platforms:
 
 **Unity Anime Toolbox** comes with templates formatted for each render pipeline, which can be selected from the Unity Hub.
 
-These templates can be used to start a new Unity project with Unity Anime Toolbox features installed.
+These templates can be used to start a new Unity project with Unity Anime Toolbox features installed.  
 For details, please see [how to install templates](../../wiki/How-to-Install-Templates).
 
 ![](Images/UnityHub.png)
@@ -80,7 +80,11 @@ Templates included in each version in the [Releases page](../../releases)：
 If you want to start with a pre-built project, 
 you can choose from one of the sample projects included in each version in the [Releases page](../../releases).
 
-For details on the sample projects, please refer to [Sample Project WiKi](../../wiki/Sample-Projects).
+For details on the sample projects, please refer to [Sample Project Wiki](../../wiki/Sample-Projects).
+
+# Others
+
+* [Main Packages](../../wiki/Main-Packages)
 
 # License
 
