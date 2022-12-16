@@ -1,44 +1,56 @@
 # **Unity Anime Toolbox**
 ![UAT_001](https://user-images.githubusercontent.com/2647923/206098409-f8e32398-e886-4ad9-9925-7b6691b1772b.png)
 
-Unity Anime Toolbox is a comprehensive set of packages to support creators uses Unity for Anime & Films.
+1. [ホーム (日本語)](#ホーム)
+1. [Home (English)](#home)
+
+# ホーム
+
 Unity Anime Toolbox は、Unityでアニメや映像を制作するための数々の機能を提供する包括的なパッケージです。
 
-- [主要パッケージ](../../wiki/主要パッケージ)
+対応するバージョンおよびプラットフォーム：
+1. Unity 2020.3.41f1 以降。
+1. 主に Windows プラットフォーム。Pencil+ 4 Line for Unity や Raytraced Hard Shadow など一部の機能が動作しないため。
 
 # **始め方**
+
 ## **Unity Hub テンプレートからはじめる**
 
 **Unity Anime Toolbox**には、Unity Hubから選択可能な形式に整えられた、各レンダーパイプラインに対応したテンプレートが同梱されています。
 
 このテンプレートをご利用頂くことで、Unity Anime Toolboxの機能がインストールされた状態でUnityのプロジェクトを開始することが出来ます。
+詳しくは [テンプレートのインストール方法](../../wiki/テンプレートのインストール方法)をご覧下さい。
 
-- [テンプレートをUnityにインストールする方法](#_heading=h.4f1mdlm)
+![](Images/UnityHub.png)
 
-![](UAT_002.png)
-<テンプレートがインストールされるとUnity HubからAnimeが選択可能になります>
+[リリースページ](releases)の各バージョンに同梱されているテンプレート：
+- HDRP: **com.unity.template.anime.hdrp-x.y.z.exp.tgz** 
+- Universal RP: **com.unity.template.anime.urp-x.y.z.exp.tgz**
+- Built-in: **com.unity.template.anime-x.y.z.exp.tgz**
 
-### **Templates**
-- HDRP: **com.unity.template.anime.hdrp-0.15.0.exp.tgz** 
-- Universal RP: **com.unity.template.anime.urp-0.15.0.exp.tgz**
-- Built-in: **com.unity.template.anime-0.15.0.exp.tgz**
-
-##
 ## **サンプルプロジェクトからはじめる**
-構築済みのプロジェクトから開始したい場合には、同梱されている２つのサンプルプロジェクトからスタートすることも出来ます。
 
-### **Sample Projects**
-- BallDanceTemplate
-- MaterialSwitchTemplate
-- MultiLightsTemplate
+構築済みのプロジェクトから開始したい場合には、
+[リリースページ](releases)の各バージョンに同梱されているサンプルプロジェクトからスタートすることも出来ます。
 
-## License
+サンプルプロジェクトの詳細は[サンプルプロジェクトの Wiki](#)をご覧下さい。
+
+# その他
+
+* [主要パッケージ](../../wiki/主要パッケージ)
+
+# ライセンス
+
 Unity Anime Toolbox is a collection of individual packages hense the license and term of use deffers to those packages who construct this collection. Please check individual packages for details.
 
-## Additional Resource
-- Joining user community
-- How to get start
 
 
 
+# Home
 
+Unity Anime Toolbox is a comprehensive set of packages to support creators uses Unity for Anime & Films.
+
+
+# License
+
+Unity Anime Toolbox is a collection of individual packages hense the license and term of use deffers to those packages who construct this collection. Please check individual packages for details.
