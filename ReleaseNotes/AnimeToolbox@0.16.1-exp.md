@@ -37,20 +37,32 @@
 - Preferenceからプラグインのフォルダを表示するためのボタンを追加しました。
 
 ### **VisualCompositor**
-- ![UAT_018](https://user-images.githubusercontent.com/2647923/206109000-0e35c50b-4c4e-4798-a929-4906ac66be97.png)
-  【新機能】 マテリアルIDごとに別の色でレンダリングする、MaterialIDRenderNode が追加されました。
-- ![UAT_019](https://user-images.githubusercontent.com/2647923/206109049-223e24f5-449c-44b2-995a-9024a25db5ad.png)
-  【新機能】 オブジェクト毎に別の色でレンダリングする、ObjectIDRenderingNode が追加されました。
+- 【新機能】 マテリアルIDごとに別の色でレンダリングする、MaterialIDRenderNode が追加されました。
+
+  ![UAT_018](https://user-images.githubusercontent.com/2647923/206109000-0e35c50b-4c4e-4798-a929-4906ac66be97.png)
+
+- 【新機能】 オブジェクト毎に別の色でレンダリングする、ObjectIDRenderingNode が追加されました。
+
+  ![UAT_019](https://user-images.githubusercontent.com/2647923/206109049-223e24f5-449c-44b2-995a-9024a25db5ad.png)
+
 - 【新機能】 PlayableDirectorTimeNode が追加されました。
-  -　　![UAT_020](https://user-images.githubusercontent.com/2647923/206109109-dbab662a-909e-40b4-ad23-3ccff2343da1.png)
-  【新機能】 計算を行うノード群が追加されました。
-- ![UAT_021](https://user-images.githubusercontent.com/2647923/206109138-2b05daf9-a892-423d-be75-c19d2d3045f4.png)
-  【新機能】 スナップショットを作成できるようになりました。
-- ![UAT_022](https://user-images.githubusercontent.com/2647923/206109189-99e59efd-3f7b-4647-b73b-0cfa28a402ba.png)
-  BlurNode ノードの機能が強化され、radiusの設定やdirectionla blurなどが出来るようになりました。
-- CoherentNoiseNode がTimelineに対応しました。
-- DropShadowNode がTimelineに対応しました。
-- 値系のノード や レンダーステート系のノードのアイコンを変更し、可視性を向上させました。
+
+- ![playable-director-time-node](https://user-images.githubusercontent.com/71803280/208084780-c7c76527-8df2-40a6-9265-4b1f528df42b.png)
+
+- 【新機能】 計算を行うノード群が追加されました。
+  ![smoothstep-value-node](https://user-images.githubusercontent.com/71803280/208085041-0983908a-103b-4689-9bdb-9f51cfc62b62.png)
+
+- 【新機能】 スナップショットを作成できるようになりました。
+
+  ![UAT_021](https://user-images.githubusercontent.com/2647923/206109138-2b05daf9-a892-423d-be75-c19d2d3045f4.png)
+  
+- BlurNode ノードの機能が強化され、radius の設定や directional blur などが出来るようになりました。
+
+  ![UAT_022](https://user-images.githubusercontent.com/2647923/206109189-99e59efd-3f7b-4647-b73b-0cfa28a402ba.png)
+  
+- CoherentNoiseNode が Timeline に対応しました。
+- DropShadowNode が Timeline に対応しました。
+- 値系のノードやレンダーステート系のノードのアイコンを変更し、可視性を向上させました。
 - SplineMaskEditorWindow でコンテキストメニューからポイントを削除できるようにしました。
 
 ---
