@@ -6,7 +6,7 @@
 
 # ホーム
 
-Unity Anime Toolbox は、Unityでアニメや映像を制作するための数々の機能を提供する包括的なパッケージです。
+**Unity Anime Toolbox** は、Unityでアニメや映像を制作するための数々の機能を提供する包括的なパッケージです。
 
 対応するバージョンおよびプラットフォーム：
 1. Unity 2020.3.41f1 以降。
@@ -16,12 +16,14 @@ Unity Anime Toolbox は、Unityでアニメや映像を制作するための数�
 
 ## **Unity Hub テンプレートからはじめる**
 
-**Unity Anime Toolbox**には、Unity Hubから選択可能な形式に整えられた、各レンダーパイプラインに対応したテンプレートが同梱されています。
+**Unity Anime Toolbox** には、Unity Hubから選択可能な形式に整えられた、各レンダーパイプラインに対応したテンプレートが同梱されています。
 
 このテンプレートをご利用頂くことで、Unity Anime Toolboxの機能がインストールされた状態でUnityのプロジェクトを開始することが出来ます。
 詳しくは [テンプレートのインストール方法](../../wiki/テンプレートのインストール方法)をご覧下さい。
 
 ![](Images/UnityHub.png)
+
+> テンプレートがインストールされるとUnity Hubから**Anime**が選択可能になります。
 
 [リリースページ](releases)の各バージョンに同梱されているテンプレート：
 - HDRP: **com.unity.template.anime.hdrp-x.y.z.exp.tgz** 
