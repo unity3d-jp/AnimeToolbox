@@ -25,7 +25,7 @@
 
 > テンプレートがインストールされるとUnity Hubから**Anime**が選択可能になります。
 
-[リリースページ](releases)の各バージョンに同梱されているテンプレート：
+[リリースページ](../../releases)の各バージョンに同梱されているテンプレート：
 - HDRP: **com.unity.template.anime.hdrp-x.y.z.exp.tgz** 
 - Universal RP: **com.unity.template.anime.urp-x.y.z.exp.tgz**
 - Built-in: **com.unity.template.anime-x.y.z.exp.tgz**
@@ -33,7 +33,7 @@
 ## **サンプルプロジェクトからはじめる**
 
 構築済みのプロジェクトから開始したい場合には、
-[リリースページ](releases)の各バージョンに同梱されているサンプルプロジェクトからスタートすることも出来ます。
+[リリースページ](../../releases)の各バージョンに同梱されているサンプルプロジェクトからスタートすることも出来ます。
 
 サンプルプロジェクトの詳細は[サンプルプロジェクトの Wiki](#)をご覧下さい。
 
@@ -70,7 +70,7 @@ For details, please see [how to install templates](../../wiki/How-to-Install-Tem
 
 > Once the template is installed, **Anime** will be selectable from the Unity Hub.
 
-Templates included in each version in the [Releases page](releases)：
+Templates included in each version in the [Releases page](../../releases)：
 - HDRP: **com.unity.template.anime.hdrp-x.y.z.exp.tgz**
 - Universal RP: **com.unity.template.anime.urp-x.y.z.exp.tgz**
 - Built-in: **com.unity.template.anime-x.y.z.exp.tgz**
@@ -78,7 +78,7 @@ Templates included in each version in the [Releases page](releases)：
 
 ## **Using a Sample Project**
 If you want to start with a pre-built project, 
-you can choose from one of the sample projects included in each version in the [Releases page](releases).
+you can choose from one of the sample projects included in each version in the [Releases page](../../releases).
 
 For details on the sample projects, please refer to [Sample Project WiKi](../../wiki/Sample-Projects).
 
