@@ -1,6 +1,7 @@
-**更新内容**
-========
+1. [更新内容 (日本語)](#日本語)
+1. [Updates (English)](#updates)
 
+# 更新内容
 
 |**パッケージ名**|**更新状況**|**旧バージョン**|**新バージョン**|**変更履歴**|
 | :-: | :-: | :-: | :-: | :-: |
@@ -19,12 +20,13 @@
 |Storyboard|更新なし|0.7.1-preview|||
 
 ## **ハイライト**
+
 ### **MaterialSwitch**
-- MaterialSwitchClipにマテリアルからカラーを読み込むボタンを追加しました。
-- MaterialPropertyNameRemapEditorのレイアウトを変更しました。
-- ![](UAT_017.png)
-  MaterialSwitchClipのプロパティ名を別の名前でアーティストに表示出来るようになりました。(Material Property Name Remap)
-###
+- MaterialSwitchClip にマテリアルからカラーを読み込むボタンを追加しました。
+- MaterialPropertyNameRemapEditor のレイアウトを変更しました。
+- ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
+  MaterialSwitchClip のプロパティ名を別の名前でアーティストに表示出来るようになりました。(Material Property Name Remap)
+
 ### **MeshSync**
 - SceneCacheを使ったワークフローでキーフレームの調整が可能になりました。
 - マテリアルをサポートしました。
@@ -52,9 +54,7 @@
 
 ---
 
-**Updates**
-========
-
+# Updates
 
 |**Package**|**Update Status**|**Previous Version**|**New Version**|**Update History**|
 | :-: | :-: | :-: | :-: | :-: |
@@ -73,11 +73,13 @@
 |Storyboard|No update|0.7.1-preview|||
 
 ## **Highlights**
+
 ### **MaterialSwitch**
 - Added a button to MaterialSwitchClip to allow color to be loaded from materials.
 - Updated MaterialPropertyNameRemapEditor layout.
-- ![](UAT_017.png)MaterialSwitchClip property name can now be displayed to artists under a different name. (Material Property Name Remap)
-###
+- ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
+  MaterialSwitchClip property name can now be displayed to artists under a different name. (Material Property Name Remap)
+
 ### **MeshSync**
 - Key frames can now be adjusted with a workflow that uses SceneCache.
 - Materials are now supported.
