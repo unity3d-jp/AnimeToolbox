@@ -41,9 +41,8 @@ Unity Anime Toolbox は、Unityでアニメや映像を制作するための数�
 
 # ライセンス
 
-Unity Anime Toolbox is a collection of individual packages hense the license and term of use deffers to those packages who construct this collection. Please check individual packages for details.
-
-
+Unity Anime Toolbox は個々のパッケージのコレクションであり、
+それぞれに異なるライセンスと使用条件があります。 ライセンスの詳細については、各パッケージを確認してください。
 
 
 # Home
@@ -53,4 +52,6 @@ Unity Anime Toolbox is a comprehensive set of packages to support creators uses 
 
 # License
 
-Unity Anime Toolbox is a collection of individual packages hense the license and term of use deffers to those packages who construct this collection. Please check individual packages for details.
+Unity Anime Toolbox is a collection of individual packages, 
+each with different licenses and terms of use. Please check each package for details on its license.
+
