@@ -24,11 +24,12 @@
 ### **MaterialSwitch**
 - MaterialSwitchClip にマテリアルからカラーを読み込むボタンを追加しました。
 - MaterialPropertyNameRemapEditor のレイアウトを変更しました。
-- ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
-  MaterialSwitchClip のプロパティ名を別の名前でアーティストに表示出来るようになりました。(Material Property Name Remap)
+- MaterialSwitchClip のプロパティ名を別の名前でアーティストに表示出来るようになりました。(Material Property Name Remap)
+
+  ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
 
 ### **MeshSync**
-- SceneCacheを使ったワークフローでキーフレームの調整が可能になりました。
+- SceneCache を使ったワークフローでキーフレームの調整が可能になりました。
 - マテリアルをサポートしました。
 - サーバーが変更されたかをトラッキングできるようになりました。
 - 次回の同期セッションで子のオブジェクトをユーザーに通知せずに全削除する機能を追加しました。
@@ -77,9 +78,10 @@
 ### **MaterialSwitch**
 - Added a button to MaterialSwitchClip to allow color to be loaded from materials.
 - Updated MaterialPropertyNameRemapEditor layout.
-- ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
-  MaterialSwitchClip property name can now be displayed to artists under a different name. (Material Property Name Remap)
+- MaterialSwitchClip property name can now be displayed to artists under a different name. (Material Property Name Remap)
 
+  ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
+ 
 ### **MeshSync**
 - Key frames can now be adjusted with a workflow that uses SceneCache.
 - Materials are now supported.
