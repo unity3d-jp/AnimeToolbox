@@ -43,17 +43,44 @@
 
 # ライセンス
 
-Unity Anime Toolbox は個々のパッケージのコレクションであり、
+**Unity Anime Toolbox** は個々のパッケージのコレクションであり、
 それぞれに異なるライセンスと使用条件があります。 ライセンスの詳細については、各パッケージを確認してください。
 
+--- 
 
 # Home
 
-The Unity Anime Toolbox is a comprehensive package that provides a variety of features for creating video and animation in Unity.
+Unity Anime Toolbox is a comprehensive package that provides a variety of features for creating video and animation in Unity.
 
 Supported Versions and Platforms:
 1. Unity 2020.3.41f1 and later.
 1. Mainly Windows platform. Some features do not work in other platforms.
+
+
+# **Getting Started**
+
+## **Using a Unity Hub Template**
+
+**Unity Anime Toolbox** comes with templates formatted for each render pipeline, which can be selected from the Unity Hub.
+
+These templates can be used to start a new Unity project with Unity Anime Toolbox features installed.
+For details, please see [how to install templates](../../wiki/How-to-Install-Templates).
+
+![](Images/UnityHub.png)
+
+> Once the template is installed, **Anime** will be selectable from the Unity Hub.
+
+Templates included in each version in the [Releases page](releases)：
+- HDRP: **com.unity.template.anime.hdrp-x.y.z.exp.tgz**
+- Universal RP: **com.unity.template.anime.urp-x.y.z.exp.tgz**
+- Built-in: **com.unity.template.anime-x.y.z.exp.tgz**
+
+
+## **Using a Sample Project**
+If you want to start with a pre-built project, 
+you can choose from one of the sample projects included in each version in the [Releases page](releases).
+
+For details on the sample projects, please refer to [Sample Project WiKi](../../wiki/Sample-Projects).
 
 # License
 
