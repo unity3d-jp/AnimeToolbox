@@ -37,6 +37,10 @@
 
 サンプルプロジェクトの詳細は[サンプルプロジェクトの Wiki](../../wiki/サンプルプロジェクト)をご覧下さい。
 
+## バグの報告
+
+バグを報告するには、[Issues ページで Issue を作成し](/issues/new)、詳細を記入してください。
+
 # その他
 
 * [主要パッケージ](../../wiki/主要パッケージ)
@@ -81,6 +85,10 @@ If you want to start with a pre-built project,
 you can choose from one of the sample projects included in each version in the [Releases page](../../releases).
 
 For details on the sample projects, please refer to [Sample Project Wiki](../../wiki/Sample-Projects).
+
+## Bug Reports 
+
+For reporting bugs, please [create an issue on the Issues page](/issues/new) and fill in the details.
 
 # Others
 
