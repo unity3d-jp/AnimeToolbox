@@ -39,7 +39,7 @@
 
 ## バグの報告
 
-バグを報告するには、[Issues ページで Issue を作成し](/issues/new)、詳細を記入してください。
+バグを報告するには、[Issues ページで Issue を作成し](/../../issues/new)、詳細を記入してください。
 
 # その他
 
@@ -88,7 +88,7 @@ For details on the sample projects, please refer to [Sample Project Wiki](../../
 
 ## Bug Reports 
 
-For reporting bugs, please [create an issue on the Issues page](/issues/new) and fill in the details.
+For reporting bugs, please [create an issue on the Issues page](/../../issues/new) and fill in the details.
 
 # Others
 
