@@ -20,8 +20,12 @@ English follows after Japanese.
 
 ## **ハイライト**
 
+### **SelectionGroup**
+* feat: query active/inactive GameObjects in GoQL
+* feat: allow group creation using drag and drop
+
 ### **MaterialSwitch**
-- fix: allow overriding texture properties with any texture type
+* fix: allow overriding texture properties with any texture type
 
 ### **VisualCompositor**
 
