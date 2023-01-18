@@ -34,8 +34,22 @@ English follows after Japanese.
 * feat: enable RenderingNode to output depth in URP projects
 * feat: enable RenderingNode to output matte in URP projects
 
-* feat: color node border based on relative performance
-  ![node-border-performance](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
+* feat: profiler integration
+
+  ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
+ 
+* feat: color node border based on relative performance  
+
+  ![](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
+
+* change: set the execution order of VisualCompositor to PostLateUpdate
+
+* fix: apply AntiAliasing in built-in/URP projects without PostProcessing
+
+* fix: apply the window and image scale properly in SplineAssetEditorWindow UI
+
+  ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
+
 
 * feat: allow users to use custom icons for nodes
   ```
@@ -46,15 +60,6 @@ English follows after Japanese.
   }
   ```
 
-* feat: profiler integration
-  ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
-
-* change: set the execution order of VisualCompositor to PostLateUpdate
-
-* fix: apply AntiAliasing in built-in/URP projects without PostProcessing
-
-* fix: apply the window and image scale properly in SplineAssetEditorWindow UI
-  ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
 
 
 ---
