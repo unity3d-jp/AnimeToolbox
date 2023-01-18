@@ -15,25 +15,13 @@ English follows after Japanese.
 |MaterialSwitch|**更新あり**|0.8.1-preview|**0.8.2-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
 |MeshSync|更新なし|0.16.2-preview||[変更](https://docs.unity3d.com/ja/Packages/com.unity.meshsync@0.16/changelog/CHANGELOG.html)|
 |Streaming Image Sequence|**更新あり**|0.16.0-preview|**0.16.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
-|VisualCompositor|**更新あり**|0.24.2-preview|**0.25.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.23/changelog/CHANGELOG.html)|
+|VisualCompositor|**更新あり**|0.25.1-preview|**0.26.0-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.26/changelog/CHANGELOG.html)|
 |Storyboard|更新なし|0.7.1-preview|||
 
 ## **ハイライト**
 
 ### **MaterialSwitch**
-- MaterialSwitchClip にマテリアルからカラーを読み込むボタンを追加しました。
-- MaterialPropertyNameRemapEditor のレイアウトを変更しました。
-- MaterialSwitchClip のプロパティ名を別の名前でアーティストに表示出来るようになりました。(Material Property Name Remap)
-
-  ![](https://user-images.githubusercontent.com/71803280/208083909-9ad47280-649c-439d-bc1a-10dee54a6cef.png)
-
-### **MeshSync**
-- SceneCache を使ったワークフローでキーフレームの調整が可能になりました。
-- マテリアルをサポートしました。
-- サーバーが変更されたかをトラッキングできるようになりました。
-- 次回の同期セッションで子のオブジェクトをユーザーに通知せずに全削除する機能を追加しました。
-- Unityからスクリプトのコールバックを差し込める様にしました。
-- Preferenceからプラグインのフォルダを表示するためのボタンを追加しました。
+- fix: allow overriding texture properties with any texture type
 
 ### **VisualCompositor**
 - 【新機能】 マテリアルIDごとに別の色でレンダリングする、MaterialIDRenderNode が追加されました。
