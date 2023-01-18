@@ -24,34 +24,15 @@ English follows after Japanese.
 - fix: allow overriding texture properties with any texture type
 
 ### **VisualCompositor**
-- 【新機能】 マテリアルIDごとに別の色でレンダリングする、MaterialIDRenderNode が追加されました。
 
-  ![UAT_018](https://user-images.githubusercontent.com/2647923/206109000-0e35c50b-4c4e-4798-a929-4906ac66be97.png)
-
-- 【新機能】 オブジェクト毎に別の色でレンダリングする、ObjectIDRenderingNode が追加されました。
-
-  ![UAT_019](https://user-images.githubusercontent.com/2647923/206109049-223e24f5-449c-44b2-995a-9024a25db5ad.png)
-
-- 【新機能】 PlayableDirectorTimeNode が追加されました。
-
-  ![playable-director-time-node](https://user-images.githubusercontent.com/71803280/208084780-c7c76527-8df2-40a6-9265-4b1f528df42b.png)
-
-- 【新機能】 計算を行うノード群が追加されました。
-
-  ![smoothstep-value-node](https://user-images.githubusercontent.com/71803280/208085041-0983908a-103b-4689-9bdb-9f51cfc62b62.png)
-
-- 【新機能】 スナップショットを作成できるようになりました。
-
-  ![UAT_021](https://user-images.githubusercontent.com/2647923/206109138-2b05daf9-a892-423d-be75-c19d2d3045f4.png)
-  
-- BlurNode ノードの機能が強化され、radius の設定や directional blur などが出来るようになりました。
-
-  ![UAT_022](https://user-images.githubusercontent.com/2647923/206109189-99e59efd-3f7b-4647-b73b-0cfa28a402ba.png)
-  
-- CoherentNoiseNode が Timeline に対応しました。
-- DropShadowNode が Timeline に対応しました。
-- 値系のノードやレンダーステート系のノードのアイコンを変更し、可視性を向上させました。
-- SplineMaskEditorWindow でコンテキストメニューからポイントを削除できるようにしました。
+* feat: enable RenderingNode to output depth in URP projects
+* feat: enable RenderingNode to output matte in URP projects
+* feat: color node border based on relative performance
+* feat: allow users to use custom icons for nodes
+* feat: profiler integration
+* change: set the execution order of VisualCompositor to PostLateUpdate
+* fix: apply AntiAliasing in built-in/URP projects without PostProcessing
+* fix: apply the window and image scale properly in SplineAssetEditorWindow UI
 
 ---
 
