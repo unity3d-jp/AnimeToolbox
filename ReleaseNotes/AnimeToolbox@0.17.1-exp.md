@@ -10,12 +10,12 @@ English follows after Japanese.
 |Cinemachine|更新なし|2.8.9||[変更](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.8/changelog/CHANGELOG.html)|
 |Timeline|更新なし|1.5.7||[変更](https://docs.unity3d.com/Packages/com.unity.timeline@1.5/changelog/CHANGELOG.html)|
 |Recorder|更新なし|3.0.3||[変更](https://docs.unity3d.com/Packages/com.unity.recorder@3.0/changelog/CHANGELOG.html)|
-|ToonShader|更新なし|0.8.2-preview||[変更](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
+|ToonShader|**更新あり**|0.8.2-preview|**0.8.3-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
 |SelectionGroup|**更新あり**|0.7.4-preview|**0.8.0-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.selection-groups@0.8/changelog/CHANGELOG.html)|
 |MaterialSwitch|**更新あり**|0.8.1-preview|**0.8.2-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
 |MeshSync|更新なし|0.16.2-preview||[変更](https://docs.unity3d.com/ja/Packages/com.unity.meshsync@0.16/changelog/CHANGELOG.html)|
 |Streaming Image Sequence|**更新あり**|0.16.0-preview|**0.16.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
-|VisualCompositor|**更新あり**|0.25.1-preview|**0.26.0-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.26/changelog/CHANGELOG.html)|
+|VisualCompositor|**更新あり**|0.25.1-preview|**0.26.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.26/changelog/CHANGELOG.html)|
 |Storyboard|更新なし|0.7.1-preview|||
 
 ## **ハイライト**
