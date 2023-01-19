@@ -24,11 +24,11 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* 【新】 URP で、RenderingNode が matte と depth を出力できるようにしました。
+* **【新】** URP で、RenderingNode が matte と depth を出力できるようにしました。
 
   ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
 
-* 【新】 Unity プロファイラー との統合を実装しました。
+* **【新】** Unity プロファイラー との統合を実装しました。
 
   ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
 
@@ -52,7 +52,7 @@ English follows after Japanese.
 
 ### **SelectionGroup**
 
-* 【新機能】 GoQL で非アクティブのオブジェクトを検索できるようにしました。
+* **【新】** GoQL で非アクティブのオブジェクトを検索できるようにしました。
   ```
   <active:false>
   ``` 
@@ -81,11 +81,11 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* [New] enable RenderingNode to output matte and depth in URP.
+* **[New]** Enable RenderingNode to output matte and depth in URP.
 
   ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
 
-* [New] implement integration with Unity profiler
+* **[New]** Implement integration with Unity profiler.
 
   ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
 
@@ -95,7 +95,7 @@ English follows after Japanese.
 
 * Execute VisualCompositor process after the updates of other modules have been finished (PostLateUpdate).
 
-* Enable applying MSAA in built-in RP without PostProcessing.
+* Enable applying MSAA in built-in RP without Post Processing Stack v2.
 
 * Enable applying MSAA in URP.
 
@@ -110,8 +110,10 @@ English follows after Japanese.
 
 ### **SelectionGroup**
 
-* [New] Query inactive GameObjects in GoQL.
-
+* **[New]** Query inactive GameObjects in GoQL.
+  ```
+  <active:false>
+  ``` 
 
 
 
