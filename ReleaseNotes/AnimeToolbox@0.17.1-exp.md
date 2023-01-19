@@ -24,11 +24,11 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* URP プロジェクトで、matte と depth を出力できるようにしました。
+* 【新】 URP で、RenderingNode が matte と depth を出力できるようにしました。
 
   ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
 
-* Unity プロファイラー との統合を実装しました。
+* 【新】 Unity プロファイラー との統合を実装しました。
 
   ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
 
@@ -36,9 +36,9 @@ English follows after Japanese.
 
   ![](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
 
-* 他のモジュールの更新が終わってから、 VisualCompositor の処理を実行するようにしました (PostLateUpdate)。
+* 他のモジュールのアップデートが終わってから、 VisualCompositor の処理を実行するようにしました (PostLateUpdate)。
 
-* Post Processing Stack v2 を使わないビルトインレンダーパイプラインで、MSAA を適用できるようにしました。
+* Post Processing Stack v2 を使わないビルトイン RP で、MSAA を適用できるようにしました。
 
 * URP で、MSAA を適用できるようにしました。
 
@@ -46,19 +46,16 @@ English follows after Japanese.
 
   ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
 
-
 ### **MaterialSwitch**
 
-* MaterialSwitchClipにあらゆる種類のテクスチャを適用できるようにしました。
+* MaterialSwitchClip のテクスチャ・プロパティをあらゆる種類のテクスチャでオーバーライドできるようにしました。
 
 ### **SelectionGroup**
 
-* GoQL で非アクティブのオブジェクトを検索できるようにしました。
+* 【新機能】 GoQL で非アクティブのオブジェクトを検索できるようにしました。
   ```
   <active:false>
   ``` 
-
-
 
 ---
 
@@ -84,33 +81,38 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* feat: enable RenderingNode to output depth in URP projects
-* feat: enable RenderingNode to output matte in URP projects
+* [New] enable RenderingNode to output matte and depth in URP.
 
-* feat: profiler integration
+  ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
+
+* [New] implement integration with Unity profiler
 
   ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
 
-* feat: color node border based on relative performance
+* Border nodes with relatively heavy performance in red.
 
   ![](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
 
-* change: set the execution order of VisualCompositor to PostLateUpdate
+* Execute VisualCompositor process after the updates of other modules have been finished (PostLateUpdate).
 
-* fix: apply AntiAliasing in built-in/URP projects without PostProcessing
+* Enable applying MSAA in built-in RP without PostProcessing.
 
-* fix: apply the window and image scale properly in SplineAssetEditorWindow UI
+* Enable applying MSAA in URP.
+
+* Revamped the UI of SplineMaskNode.
 
   ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
 
 
 ### **MaterialSwitch**
-* fix: allow overriding texture properties with any texture type
 
+* Allow overriding the texture properties of MaterialSwitchClip with any texture type.
 
 ### **SelectionGroup**
-* feat: query active/inactive GameObjects in GoQL
-  ```
-  <active:false>
-  ``` 
+
+* [New] Query inactive GameObjects in GoQL.
+
+
+
+
 
