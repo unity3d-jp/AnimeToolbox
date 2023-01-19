@@ -60,7 +60,9 @@ English follows after Japanese.
   }
   ```
 
+* feat: CompositorNodeEditor attribute to allow users to customize node UIs
 
+* fix: ensure that VisualCompositor is executed only if the component is enabled
 
 ---
 
