@@ -38,7 +38,7 @@ English follows after Japanese.
 
 * 他のモジュールのアップデートが終わってから、 VisualCompositor の処理を実行するようにしました (PostLateUpdate)。
 
-* Post Processing Stack v2 を使わないビルトイン RP で、MSAA を適用できるようにしました。
+* Post Processing Stack v2 を使わないビルトインレンダーパイプラインで、MSAA を適用できるようにしました。
 
 * URP で、MSAA を適用できるようにしました。
 
@@ -95,7 +95,7 @@ English follows after Japanese.
 
 * Execute VisualCompositor process after the updates of other modules have been finished (PostLateUpdate).
 
-* Enable applying MSAA in built-in RP without Post Processing Stack v2.
+* Enable applying MSAA in Built-in Render Pipeline without Post Processing Stack v2.
 
 * Enable applying MSAA in URP.
 
