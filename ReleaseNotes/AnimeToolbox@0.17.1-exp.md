@@ -1,4 +1,6 @@
+```
 English follows after Japanese.
+```
 
 # 更新内容
 
@@ -22,44 +24,36 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* feat: enable RenderingNode to output depth in URP projects
-* feat: enable RenderingNode to output matte in URP projects
+* URP プロジェクトで、matte と depth を出力できるようにしました。
 
-* feat: profiler integration
+  ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
+
+* Unity プロファイラー との統合を実装しました。
 
   ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
 
-* feat: color node border based on relative performance
+* 処理負荷が比較的に高いノードを赤色で囲むようにしました。
 
   ![](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
 
-* change: set the execution order of VisualCompositor to PostLateUpdate
+* 他のモジュールの更新が終わってから、 VisualCompositor の処理を実行するようにしました (PostLateUpdate)。
 
-* fix: apply AntiAliasing in built-in/URP projects without PostProcessing
+* Post Processing Stack v2 を使わないビルトインレンダーパイプラインで、MSAA を適用できるようにしました。
 
-* fix: apply the window and image scale properly in SplineAssetEditorWindow UI
+* URP で、MSAA を適用できるようにしました。
+
+* SplineMaskNode の UI を一新しました。
 
   ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
 
 
-* feat: allow users to use custom icons for nodes
-  ```
-  [CompositorNode("MenuTitle", "Documentation string", icon:"Assets/my-custom-icon.png")]
-  public class MyCustomNode : CompositorNode
-  {
-    ...
-  }
-  ```
-
-* fix: ensure that VisualCompositor is executed only if the component is enabled
-
-
 ### **MaterialSwitch**
-* fix: allow overriding texture properties with any texture type
 
+* MaterialSwitchClipにあらゆる種類のテクスチャを適用できるようにしました。
 
 ### **SelectionGroup**
-* feat: query active/inactive GameObjects in GoQL
+
+* GoQL で非アクティブのオブジェクトを検索できるようにしました。
   ```
   <active:false>
   ``` 
@@ -88,7 +82,6 @@ English follows after Japanese.
 
 ## **Highlights**
 
-
 ### **VisualCompositor**
 
 * feat: enable RenderingNode to output depth in URP projects
@@ -109,18 +102,6 @@ English follows after Japanese.
 * fix: apply the window and image scale properly in SplineAssetEditorWindow UI
 
   ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
-
-
-* feat: allow users to use custom icons for nodes
-  ```
-  [CompositorNode("MenuTitle", "Documentation string", icon:"Assets/my-custom-icon.png")]
-  public class MyCustomNode : CompositorNode
-  {
-    ...
-  }
-  ```
-
-* fix: ensure that VisualCompositor is executed only if the component is enabled
 
 
 ### **MaterialSwitch**
