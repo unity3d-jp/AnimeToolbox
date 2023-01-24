@@ -42,6 +42,9 @@ English follows after Japanese.
 
 * URP で、MSAA を適用できるようにしました。
 
+  ![](https://user-images.githubusercontent.com/71803280/214222899-c354a297-64bc-43eb-a463-a145f09626ea.png)
+
+
 * SplineMaskNode の UI を一新しました。
 
   ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
@@ -95,9 +98,11 @@ English follows after Japanese.
 
 * Execute VisualCompositor process after the updates of other modules have been finished (PostLateUpdate).
 
-* Enable applying MSAA in Built-in Render Pipeline without Post Processing Stack v2.
+* Allow MSAA in Built-in Render Pipeline without Post Processing Stack v2.
 
-* Enable applying MSAA in URP.
+* Allow MSAA in URP.
+
+  ![](https://user-images.githubusercontent.com/71803280/214222899-c354a297-64bc-43eb-a463-a145f09626ea.png)
 
 * Revamped the UI of SplineMaskNode.
 
