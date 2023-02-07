@@ -44,6 +44,7 @@
 
 # その他
 
+* [発表](../../wiki/発表)
 * [主要パッケージ](../../wiki/主要パッケージ)
 
 # ライセンス
@@ -94,6 +95,7 @@ and fill in the details.
 
 # Others
 
+* [Presentations](../../wiki/Presentations)
 * [Main Packages](../../wiki/Main-Packages)
 
 # License
