@@ -44,7 +44,7 @@ English follows after Japanese.
   
   ![](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
 
-* **[New]** 現在の VisualCompositor ウィンドウの位置を名前付きのブックマークに保存して後で戻る機能を追加しました。
+* **[New]** 現在の VisualCompositor ウィンドウの位置を名前付きのブックマークに保存して、後でその位置に戻れる機能を追加しました。
 
   ![](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
 
@@ -66,12 +66,13 @@ English follows after Japanese.
 
 ### **MeshSync**
 
-* ベイクで Blender からマテリアルを同期する機能を追加しました。
+* Blender からのマテリアルを同期するためのベイク機能を追加しました。
 
   ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
 
 
 * **[New]** エクスポートされたマテリアルに Blender からの変更を適用できるオプションを追加しました。
+
   ![image](https://user-images.githubusercontent.com/71803280/220377980-82a51d8e-b2b1-4fc2-89b3-2647877df532.png)
 
 
@@ -139,7 +140,7 @@ English follows after Japanese.
 
 ### **MeshSync**
 
-* Added functionality to sync materials from Blender by baking. 
+* Added bake function to synchronize materials from Blender.
 
   ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
 
