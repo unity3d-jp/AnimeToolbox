@@ -22,10 +22,11 @@ New
 |ToonShader|:white_check_mark:|0.8.3-preview|**0.8.5-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
 |SelectionGroup|:white_check_mark:|0.8.0-preview|**0.8.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.selection-groups@0.8/changelog/CHANGELOG.html)|
 |MaterialSwitch||0.8.2-preview||[変更](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
-|MeshSync||0.16.2-preview||[変更](https://docs.unity3d.com/ja/Packages/com.unity.meshsync@0.16/changelog/CHANGELOG.html)|
+|MeshSync|:white_check_mark:|0.16.2-preview|**0.17.1-preview**|[変更](https://docs.unity3d.com/ja/Packages/com.unity.meshsync@0.17/changelog/CHANGELOG.html)|
 |Streaming Image Sequence||0.16.1-preview||[変更](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
 |VisualCompositor|:white_check_mark:|0.26.1-preview|**0.27.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.26/changelog/CHANGELOG.html)|
 |Storyboard||0.7.1-preview|||
+
 
 ## **ハイライト**
 
