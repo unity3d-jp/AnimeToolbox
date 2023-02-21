@@ -101,55 +101,55 @@ English follows after Japanese.
 
 ### **BallDanceTemplate**
 
-* **[New]** Add "BallDance_AovExport.unity" scene that demonstrates AOV output samples.
+* **[New]** Added "BallDance_AovExport.unity" scene that demonstrates AOV output samples.
 
   ![AOVsample](https://user-images.githubusercontent.com/71803280/214796666-a2e2a580-0140-48b4-b745-ec121f29241c.png)
 
 
 ### **VisualCompositor**
 
-* **[New]** PostProcessNode for HDRP and URP.
+* **[New]** Added support for PostProcessNode in HDRP and URP.
 
   ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
 
 
-* **[New]** Enable keeping or overriding the existing PostProcess settings for Render Node in BuiltIn Render Pipeline.
+* **[New]** Enable keeping or overriding the existing PostProcess settings for Render Node in Built-In Render Pipeline.
 
   ![image](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
 
-* **[New]** Save the current window position into a named bookmark to return to it later.
+* **[New]** Added functionality to save the current VisualCompositor window position into a named bookmark to return to it later.
 
   ![image](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
 
 
-* **[New]** Size presets for applicable nodes.
+* **[New]** Added size presets for applicable nodes.
 
   ![image](https://user-images.githubusercontent.com/71803280/220374577-8950a1e8-5930-4466-8efe-d1a4f8ca1aa7.png)
 
-* Apply depth for PostProcessNode in BuiltIn Render Pipeline.
+* Applied depth for PostProcessNode in Built-In Render Pipeline.
 
-* Keep the collapse states of nodes after performing undo.
+* Keep the collapsed state of nodes even after performing undo.
 
 * Reflect the name of the active Compositor and its graph in VisualCompositor window.
 
-* Output VisualCompositor to camera target instead of the screen by force.
+* Output VisualCompositor to camera target instead of the Game View by force.
 
 * Display images correctly in the output previews of nodes and SplineMaskEditorWindow.
 
 
 ### **MeshSync**
 
-* Material syncing from Blender by baking. 
+* Added functionality to sync materials from Blender by baking. 
 
   ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
 
 
-* **[New]** Apply material changes from Blender to exported materials.
+* **[New]** Added option to apply material changes from Blender to exported materials.
 
   ![image](https://user-images.githubusercontent.com/71803280/220377980-82a51d8e-b2b1-4fc2-89b3-2647877df532.png)
 
 
-* **[New]** Support for orthographic camera.
+* **[New]** Added support for orthographic camera.
 
 
 
