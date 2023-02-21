@@ -2,10 +2,6 @@
 English follows after Japanese.
 ```
 
-New
-* add "BallDance_AovExport.unity" scene that demonstrates AOV output samples in BallDanceTemplate project
- 
-  ![AOVsample](https://user-images.githubusercontent.com/71803280/214796666-a2e2a580-0140-48b4-b745-ec121f29241c.png)
 
 ---
 
