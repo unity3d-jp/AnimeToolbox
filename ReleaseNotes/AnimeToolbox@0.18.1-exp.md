@@ -126,8 +126,8 @@ English follows after Japanese.
 
 ### **MeshSync**
 
-* Material syncing from Blender by baking.
-* 
+* Material syncing from Blender by baking. 
+
   ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
 
 
