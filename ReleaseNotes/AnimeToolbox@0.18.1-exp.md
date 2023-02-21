@@ -26,43 +26,56 @@ English follows after Japanese.
 
 ## **ハイライト**
 
+### **BallDanceTemplate**
+
+* **[New]** AOV 出力のサンプルを示す「BallDance_AovExport.unity」シーンを追加しました。
+
+  ![AOVsample](https://user-images.githubusercontent.com/71803280/214796666-a2e2a580-0140-48b4-b745-ec121f29241c.png)
+
+
 ### **VisualCompositor**
 
-* **【新】** URP で、RenderingNode が matte と depth を出力できるようにしました。
-
-  ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
-
-* **【新】** Unity プロファイラー との統合を実装しました。
-
-  ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
-
-* 処理負荷が比較的に高いノードを赤色で囲むようにしました。
-
-  ![](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
-
-* 他のモジュールのアップデートが終わってから、 VisualCompositor の処理を実行するようにしました (PostLateUpdate)。
-
-* Post Processing Stack v2 を使わないビルトインレンダーパイプラインで、MSAA を適用できるようにしました。
-
-* URP で、MSAA を適用できるようにしました。
-
-  ![](https://user-images.githubusercontent.com/71803280/214222899-c354a297-64bc-43eb-a463-a145f09626ea.png)
+* **[New]** HDRP および URP に PostProcessNode を対応しました。
+  
+  ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
 
 
-* SplineMaskNode の UI を一新しました。
+* **[New]** ビルトインレンダーパイプラインの Render ノードに対して、既存のポストプロセスの設定を維持またはオーバーライドをできるようにしました。
+  
+  ![](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
 
-  ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
+* **[New]** 現在の VisualCompositor ウィンドウの位置を名前付きのブックマークに保存して後で戻る機能を追加しました。
 
-### **MaterialSwitch**
+  ![](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
 
-* MaterialSwitchClip のテクスチャ・プロパティをあらゆる種類のテクスチャでオーバーライドできるようにしました。
 
-### **SelectionGroup**
+* **[New]** 該当するノードにサイズのプリセットを追加しました。
 
-* **【新】** GoQL で非アクティブのオブジェクトを検索できるようにしました。
-  ```
-  <active:false>
-  ``` 
+  ![](https://user-images.githubusercontent.com/71803280/220374577-8950a1e8-5930-4466-8efe-d1a4f8ca1aa7.png)
+
+* ビルトインレンダーパイプラインの PostProcess ノードに深度を適用しました。
+
+* Undo を実行した後でも、ノードの折りたたみ状態を保持するようにしました。
+
+* VisualCompositor ウィンドウにアクティブのコンポジターとそのグラフの名前を正しく反映するようにしました。
+
+* VisualCompositor を強制的にゲームビューではなく、カメラのターゲットに出力するようにしました。
+
+* ノードの出力プレビューと SplineMaskEditorWindow で画像を正しく表示するようにしました。
+ 
+
+### **MeshSync**
+
+* ベイクで Blender からマテリアルを同期する機能を追加しました。
+
+  ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
+
+
+* **[New]** エクスポートされたマテリアルに Blender からの変更を適用できるオプションを追加しました。
+  ![image](https://user-images.githubusercontent.com/71803280/220377980-82a51d8e-b2b1-4fc2-89b3-2647877df532.png)
+
+
+* **[New]** 平行投影カメラのサポートを追加しました。
 
 ---
 
