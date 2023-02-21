@@ -90,43 +90,57 @@ New
 
 ## **Highlights**
 
+### **BallDanceTemplate**
+
+* **[New]** Add "BallDance_AovExport.unity" scene that demonstrates AOV output samples.
+
+  ![AOVsample](https://user-images.githubusercontent.com/71803280/214796666-a2e2a580-0140-48b4-b745-ec121f29241c.png)
+
+
 ### **VisualCompositor**
 
-* **[New]** Enable RenderingNode to output matte and depth in URP.
+* **[New]** PostProcessNode for HDRP and URP.
 
-  ![](https://user-images.githubusercontent.com/71803280/213374633-a090c2cb-cf68-4044-948e-5d94612d3141.png)
-
-* **[New]** Implement integration with Unity profiler.
-
-  ![profiler](https://user-images.githubusercontent.com/71803280/213129643-eae056ab-2112-479e-b6a9-3e3ee316471b.png)
-
-* Border nodes with relatively heavy performance in red.
-
-  ![](https://user-images.githubusercontent.com/71803280/213129544-233af8a2-23c2-4fff-bf77-73225d44b56c.png)
-
-* Execute VisualCompositor process after the updates of other modules have been finished (PostLateUpdate).
-
-* Allow MSAA in Built-in Render Pipeline without Post Processing Stack v2.
-
-* Allow MSAA in URP.
-
-  ![](https://user-images.githubusercontent.com/71803280/214222899-c354a297-64bc-43eb-a463-a145f09626ea.png)
-
-* Revamped the UI of SplineMaskNode.
-
-  ![](https://user-images.githubusercontent.com/71803280/213129858-28308fec-173f-47a2-a29a-4da3b4575fc4.png)
+  ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
 
 
-### **MaterialSwitch**
+* **[New]** Enable keeping or overriding the existing PostProcess settings for Render Node in BuiltIn Render Pipeline.
 
-* Allow overriding the texture properties of MaterialSwitchClip with any texture type.
+  ![image](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
 
-### **SelectionGroup**
+* **[New]** Save the current window position into a named bookmark to return to it later.
 
-* **[New]** Query inactive GameObjects in GoQL.
-  ```
-  <active:false>
-  ``` 
+  ![image](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
+
+
+* **[New]** Size presets for applicable nodes.
+
+  ![image](https://user-images.githubusercontent.com/71803280/220374577-8950a1e8-5930-4466-8efe-d1a4f8ca1aa7.png)
+
+* Apply depth for PostProcessNode in BuiltIn Render Pipeline.
+
+* Keep the collapse states of nodes after performing undo.
+
+* Reflect the name of the active Compositor and its graph in VisualCompositor window.
+
+* Output VisualCompositor to camera target instead of the screen by force.
+
+* Display images correctly in the output previews of nodes and SplineMaskEditorWindow.
+
+
+### **MeshSync**
+
+* Material syncing from Blender by baking.
+* 
+  ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
+
+
+* **[New]** Apply material changes from Blender to exported materials.
+
+  ![image](https://user-images.githubusercontent.com/71803280/220377980-82a51d8e-b2b1-4fc2-89b3-2647877df532.png)
+
+
+* **[New]** Support for orthographic camera.
 
 
 
