@@ -35,7 +35,7 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** HDRP および URP に PostProcessNode を対応しました。
+* **[New]** HDRP および URP に Post Process ノードを対応しました。
   
   ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
 
@@ -109,7 +109,7 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Added support for PostProcessNode in HDRP and URP.
+* **[New]** Added support for Post Process Node in HDRP and URP.
 
   ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
 
@@ -118,7 +118,8 @@ English follows after Japanese.
 
   ![image](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
 
-* **[New]** Added functionality to save the current VisualCompositor window position into a named bookmark to return to it later.
+* **[New]** Added functionality to save the current VisualCompositor window position into a named bookmark 
+  in order to allow returning to it later.
 
   ![image](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
 
