@@ -29,16 +29,16 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Stable Diffusion Web UI と連携できる SDTxt2ImgNode と SDImg2ImgNode を追加しました。
+* **[New]** Stable Diffusion Web UI と連携できる Stable Diffusion Txt2Img と Img2Img ノードを追加しました。
 
   https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
 
-* **[New]** Timeline に対応した OutlineNode を追加しました。
+* **[New]** Timeline に対応した Outline　ノードを追加しました。
 
   ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
 
-* **[New]** Timeline に対応した GlowNode を追加しました。
+* **[New]** Timeline に対応した Glow　ノードを追加しました。
 
   ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
 
