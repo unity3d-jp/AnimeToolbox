@@ -48,7 +48,7 @@ English follows after Japanese.
 
 ### **ToonShader**
 
-* **[New]** URP Forward + を対応しました。
+* **[New]** URP Forward+ を対応しました。
 
 
 ---
