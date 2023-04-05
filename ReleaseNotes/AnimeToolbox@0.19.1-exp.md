@@ -55,6 +55,10 @@ English follows after Japanese.
 
 ### **MaterialSwitch**
 
+* **[New]** Timeline 上で SpriteRenderer の Sprite をオバーライドできる SpriteSwitchClip を追加しました。
+
+  ![image](https://user-images.githubusercontent.com/71803280/229985256-ae175850-e72a-4961-beec-8aa3096092bc.png)
+
 ---
 
 # Updates
