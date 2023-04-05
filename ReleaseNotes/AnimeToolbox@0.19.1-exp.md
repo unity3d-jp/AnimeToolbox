@@ -79,63 +79,38 @@ English follows after Japanese.
 |VisualCompositor|:white_check_mark:|0.27.1-preview|**0.28.1-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.27/changelog/CHANGELOG.html)|
 |Storyboard||0.7.1-preview|||
 
-
-
 ## **Highlights**
-
-### **BallDanceTemplate**
-
-* **[New]** Added "BallDance_AovExport.unity" scene that demonstrates AOV output samples.
-
-  ![AOVsample](https://user-images.githubusercontent.com/71803280/214796666-a2e2a580-0140-48b4-b745-ec121f29241c.png)
-
 
 ### **VisualCompositor**
 
-* **[New]** Added support for Post Process Node in HDRP and URP.
+* **[New]** Stable Diffusion Web UI と連携できる SDTxt2ImgNode と SDImg2ImgNode を追加しました。
 
-  ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
-
-
-* **[New]** Enable keeping or overriding the existing PostProcess settings for Render Node in Built-In Render Pipeline.
-
-  ![image](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
-
-* **[New]** Added functionality to save the current VisualCompositor window position into a named bookmark 
-  in order to allow returning to it later.
-
-  ![image](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
+  https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
 
-* **[New]** Added size presets for applicable nodes.
+* **[New]** Timeline に対応した OutlineNode を追加しました。
 
-  ![image](https://user-images.githubusercontent.com/71803280/220374577-8950a1e8-5930-4466-8efe-d1a4f8ca1aa7.png)
+  ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
 
-* Applied depth for PostProcessNode in Built-In Render Pipeline.
+* **[New]** Timeline に対応した GlowNode を追加しました。
 
-* Keep the collapsed state of nodes even after performing undo.
+  ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
 
-* Reflect the name of the active Compositor and its graph in VisualCompositor window.
-
-* Output VisualCompositor to camera target instead of the Game View by force.
-
-* Display images correctly in the output previews of nodes and SplineMaskEditorWindow.
+* **[New]** HDRP および URP に FinalOutput ノードを対応しました。
 
 
-### **MeshSync**
 
-* Added bake function to synchronize materials from Blender.
+### **ToonShader**
 
-  ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
+* **[New]** Unity 2022.2 以降の URP Forward+ に対応しました。
 
-
-* **[New]** Added option to apply material changes from Blender to exported materials.
-
-  ![image](https://user-images.githubusercontent.com/71803280/220377980-82a51d8e-b2b1-4fc2-89b3-2647877df532.png)
+  ![toon-shader-forward-plus](https://user-images.githubusercontent.com/71803280/229984087-707a80fb-21a7-49bb-bd78-93ee5a319547.png)
 
 
-* **[New]** Added support for orthographic camera.
+### **MaterialSwitch**
 
+* **[New]** Timeline 上で SpriteRenderer の Sprite をオバーライドできる SpriteSwitchClip を追加しました。
 
+  ![image](https://user-images.githubusercontent.com/71803280/229985256-ae175850-e72a-4961-beec-8aa3096092bc.png)
 
 
