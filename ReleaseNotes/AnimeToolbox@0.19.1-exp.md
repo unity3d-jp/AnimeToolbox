@@ -26,42 +26,24 @@ English follows after Japanese.
 
 ## **ハイライト**
 
-### **BallDanceTemplate**
-
-* **[New]** AOV 出力のサンプルを示す「BallDance_AovExport.unity」シーンを追加しました。
-
-  ![AOVsample](https://user-images.githubusercontent.com/71803280/214796666-a2e2a580-0140-48b4-b745-ec121f29241c.png)
-
 
 ### **VisualCompositor**
 
-* **[New]** HDRP および URP に Post Process ノードを対応しました。
+* **[New]** Stable Diffusion Web UI と連携できる SDTxt2ImgNode と SDImg2ImgNode を追加しました。
   
-  ![](https://user-images.githubusercontent.com/71803280/220373115-32216534-3315-441d-8eec-ee6d7d18f491.png)
+  ![](https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4)
 
 
-* **[New]** ビルトインレンダーパイプラインの Render ノードに対して、既存のポストプロセスの設定を維持またはオーバーライドをできるようにしました。
-  
-  ![](https://user-images.githubusercontent.com/71803280/220373652-5ac203e6-46bc-45c0-9f88-787869ccdfdc.png)
+* **[New]** OutlineNode (アニメーション対応) を追加しました。
 
-* **[New]** 現在の VisualCompositor ウィンドウの位置を名前付きのブックマークに保存して、後でその位置に戻れる機能を追加しました。
+  ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
 
-  ![](https://user-images.githubusercontent.com/71803280/220374017-2c5161d9-1f28-405e-99ff-8685b3d6f17e.png)
+* **[New]** GlowNode (アニメーション対応) を追加しました。
 
+  ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
 
-* **[New]** 該当するノードにサイズのプリセットを追加しました。
+* **[New]** HDRP および URP に FinalOutput ノードを対応しました。
 
-  ![](https://user-images.githubusercontent.com/71803280/220374577-8950a1e8-5930-4466-8efe-d1a4f8ca1aa7.png)
-
-* ビルトインレンダーパイプラインの PostProcess ノードに深度を適用しました。
-
-* Undo を実行した後でも、ノードの折りたたみ状態を保持するようにしました。
-
-* VisualCompositor ウィンドウにアクティブのコンポジターとそのグラフの名前を正しく反映するようにしました。
-
-* VisualCompositor を強制的にゲームビューではなく、カメラのターゲットに出力するようにしました。
-
-* ノードの出力プレビューと SplineMaskEditorWindow で画像を正しく表示するようにしました。
  
 
 ### **MeshSync**
