@@ -15,12 +15,12 @@ English follows after Japanese.
 |Cinemachine||2.8.9||[変更](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.8/changelog/CHANGELOG.html)|
 |Timeline||1.5.7||[変更](https://docs.unity3d.com/Packages/com.unity.timeline@1.5/changelog/CHANGELOG.html)|
 |Recorder||3.0.3||[変更](https://docs.unity3d.com/Packages/com.unity.recorder@3.0/changelog/CHANGELOG.html)|
-|ToonShader|:white_check_mark:|0.8.3-preview|**0.8.5-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
-|SelectionGroup|:white_check_mark:|0.8.0-preview|**0.8.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.selection-groups@0.8/changelog/CHANGELOG.html)|
-|MaterialSwitch||0.8.2-preview||[変更](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
+|ToonShader|:white_check_mark:|0.8.5-preview|**0.9.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
+|SelectionGroup|:white_check_mark:|0.8.1-preview|**0.9.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.selection-groups@0.8/changelog/CHANGELOG.html)|
+|MaterialSwitch|:white_check_mark:|0.8.2-preview|**0.9.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
 |MeshSync|:white_check_mark:|0.16.2-preview|**0.17.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.meshsync@0.17/changelog/CHANGELOG.html)|
-|Streaming Image Sequence||0.16.1-preview||[変更](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
-|VisualCompositor|:white_check_mark:|0.26.1-preview|**0.27.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.27/changelog/CHANGELOG.html)|
+|Streaming Image Sequence|:white_check_mark:|0.16.1-preview|**0.17.2-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
+|VisualCompositor|:white_check_mark:|0.27.1-preview|**0.28.1-preview**|[変更](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.27/changelog/CHANGELOG.html)|
 |Storyboard||0.7.1-preview|||
 
 
