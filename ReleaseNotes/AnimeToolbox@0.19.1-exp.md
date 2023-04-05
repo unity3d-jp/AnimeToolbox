@@ -34,11 +34,11 @@ English follows after Japanese.
   https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
 
-* **[New]** OutlineNode (アニメーション対応) を追加しました。
+* **[New]** Timeline に対応した OutlineNode を追加しました。
 
   ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
 
-* **[New]** GlowNode (アニメーション対応) を追加しました。
+* **[New]** Timeline に対応した GlowNode を追加しました。
 
   ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
 
