@@ -83,7 +83,7 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Stable Diffusion Web UI と連携できる SDTxt2ImgNode と SDImg2ImgNode を追加しました。
+* **[New]** Added Stable Diffusion Txt2Img and Img2Img nodes that work together with Stable Diffusion Web UI.
 
   https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
