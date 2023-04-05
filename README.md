@@ -1,6 +1,10 @@
 # **Unity Anime Toolbox**
 ![UAT_001](https://user-images.githubusercontent.com/2647923/206098409-f8e32398-e886-4ad9-9925-7b6691b1772b.png)
 
+```
+English follows after Japanese.
+```
+
 1. [ホーム (日本語)](#ホーム)
 1. [Home (English)](#home)
 
