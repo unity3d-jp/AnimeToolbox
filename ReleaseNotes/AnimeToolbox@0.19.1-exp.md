@@ -88,28 +88,27 @@ English follows after Japanese.
   https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
 
-* **[New]** Timeline に対応した OutlineNode を追加しました。
+* **[New]** Added Outline Node with Timeline support.
 
   ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
 
-* **[New]** Timeline に対応した GlowNode を追加しました。
+* **[New]** Added Glow Node with Timeline Support。
 
   ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
 
-* **[New]** HDRP および URP に FinalOutput ノードを対応しました。
-
+* **[New]** Added support for Final Output Node in HDRP and URP. 
 
 
 ### **ToonShader**
 
-* **[New]** Unity 2022.2 以降の URP Forward+ に対応しました。
+* **[New]** Added support for URP Forward+ in Unity 2022.2 or later.
 
   ![toon-shader-forward-plus](https://user-images.githubusercontent.com/71803280/229984087-707a80fb-21a7-49bb-bd78-93ee5a319547.png)
 
 
 ### **MaterialSwitch**
 
-* **[New]** Timeline 上で SpriteRenderer の Sprite をオバーライドできる SpriteSwitchClip を追加しました。
+* **[New]** Added SpriteSwitchClip to override the sprites of SpriteRenderer in the Timeline window.
 
   ![image](https://user-images.githubusercontent.com/71803280/229985256-ae175850-e72a-4961-beec-8aa3096092bc.png)
 
