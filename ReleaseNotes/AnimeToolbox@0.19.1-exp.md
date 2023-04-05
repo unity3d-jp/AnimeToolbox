@@ -46,19 +46,10 @@ English follows after Japanese.
 
  
 
-### **MeshSync**
+### **ToonShader**
 
-* Blender からのマテリアルを同期するためのベイク機能を追加しました。
+* **[New]** URP Forward + を対応しました。
 
-  ![image](https://user-images.githubusercontent.com/71803280/220378573-c0571fe5-4d80-4a93-82eb-2c690a7097f6.png)
-
-
-* **[New]** エクスポートされたマテリアルに Blender からの変更を適用できるオプションを追加しました。
-
-  ![image](https://user-images.githubusercontent.com/71803280/220377980-82a51d8e-b2b1-4fc2-89b3-2647877df532.png)
-
-
-* **[New]** 平行投影カメラのサポートを追加しました。
 
 ---
 
