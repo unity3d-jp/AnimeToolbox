@@ -48,8 +48,12 @@ English follows after Japanese.
 
 ### **ToonShader**
 
-* **[New]** URP Forward+ を対応しました。
+* **[New]** Unity 2022.2 以降の URP Forward+ に対応しました。
 
+　![toon-shader-forward-plus](https://user-images.githubusercontent.com/71803280/229984087-707a80fb-21a7-49bb-bd78-93ee5a319547.png)
+
+
+### **MaterialSwitch**
 
 ---
 
