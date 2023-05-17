@@ -29,35 +29,38 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Stable Diffusion Web UI と連携できる Stable Diffusion Txt2Img と Img2Img ノードを追加しました。
+* **[New]** Shear ノードを追加しました。
+  ![shear-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/f3a7690f-3147-40cc-9dc0-50d9eb359f55)
 
   https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
+* **[New]** Render ノードに Background ポートを追加しました。フォワードパスの場合のみ有効。
 
-* **[New]** Timeline に対応した Outline ノードを追加しました。
-
-  ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
-
-* **[New]** Timeline に対応した Glow ノードを追加しました。
-
-  ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
-
-* **[New]** HDRP および URP に FinalOutput ノードを対応しました。
-
+  ![image](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/268e4530-90db-4137-99bd-10412ff36d3f)
  
+* **[New]** ノードの出力のプレビューの下に、保存ボタンを追加しました。
 
-### **ToonShader**
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/4e6c27a2-5bdd-400f-b71f-fad18d8e8484)
 
-* **[New]** Unity 2022.2 以降の URP Forward+ に対応しました。
+* **[New]** Layer ノードの簡単に作るためのボタンを追加しました。
 
-  ![toon-shader-forward-plus](https://user-images.githubusercontent.com/71803280/229984087-707a80fb-21a7-49bb-bd78-93ee5a319547.png)
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/08bf7b85-c952-4627-9533-4511f8772c45)
+
+* **[New]** Compositor Graph を簡単に切り替えるボタンを追加しました。
+ 
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/59d71e58-59c2-48be-ada1-5563c7a301f8)
+
+* **[New]** Editor での処理負荷を改善するために、**VisualCompositor** コンポネントの中に **CacheObjectsMode** プロパーティを追加しました。
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/1a7cd852-ff40-4b6d-aab2-949ca819e968)
 
 
-### **MaterialSwitch**
+### **MeshSync**
 
-* **[New]** Timeline 上で SpriteRenderer の Sprite をオバーライドできる SpriteSwitchClip を追加しました。
 
-  ![image](https://user-images.githubusercontent.com/71803280/229985256-ae175850-e72a-4961-beec-8aa3096092bc.png)
+* **[New]** マテリアルを作るときのデフォールトシェーダーを変更できるようにしました。
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/96f31fa4-1f8d-4c6a-8ea0-91f02aa8c492)
 
 ---
 
