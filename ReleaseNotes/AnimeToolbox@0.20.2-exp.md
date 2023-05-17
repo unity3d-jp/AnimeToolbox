@@ -30,9 +30,8 @@ English follows after Japanese.
 ### **VisualCompositor**
 
 * **[New]** Shear ノードを追加しました。
+ 
   ![shear-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/f3a7690f-3147-40cc-9dc0-50d9eb359f55)
-
-  https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
 
 * **[New]** Render ノードに Background ポートを追加しました。フォワードパスの場合のみ有効。
 
@@ -46,7 +45,7 @@ English follows after Japanese.
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/08bf7b85-c952-4627-9533-4511f8772c45)
 
-* **[New]** Compositor Graph を簡単に切り替えるボタンを追加しました。
+* **[New]** シーン内で、Compositor Graph を簡単に切り替えるボタンを追加しました。
  
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/59d71e58-59c2-48be-ada1-5563c7a301f8)
 
