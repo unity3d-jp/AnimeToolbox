@@ -51,7 +51,7 @@ English follows after Japanese.
 
 * **[New]** Editor での処理負荷を改善するために、**VisualCompositor** コンポネントの中に **CacheObjectsMode** プロパーティを追加しました。
 
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/1a7cd852-ff40-4b6d-aab2-949ca819e968)
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/a006e986-deb5-4ee1-ad3a-3e0f3e095b4c)
 
 
 ### **MeshSync**
