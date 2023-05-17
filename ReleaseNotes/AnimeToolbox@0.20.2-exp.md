@@ -33,7 +33,7 @@ English follows after Japanese.
  
   ![shear-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/f3a7690f-3147-40cc-9dc0-50d9eb359f55)
 
-* **[New]** Render ノードに Background ポートを追加しました。フォワードパスの場合のみ有効。
+* **[New]** Render ノードに Background ポートを追加しました。フォワードレンダリングパスの場合のみ有効。
 
   ![image](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/268e4530-90db-4137-99bd-10412ff36d3f)
  
