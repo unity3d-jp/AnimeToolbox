@@ -67,18 +67,18 @@ English follows after Japanese.
 
 |**Package**|**Update Status**|**Previous Version**|**New Version**|**Update History**|
 | :-: | :-: | :-: | :-: | :-: |
-|Unity|:white_check_mark:|2020.3.44f1|**Unity 2020.3.46f1**||
+|Unity|:white_check_mark:|2020.3.46f1|**Unity 2020.3.47f1**||
 |HDRP||10.10.1||[Changes](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.10/changelog/CHANGELOG.html) |
 |URP||10.10.1||[Changes](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.10/changelog/CHANGELOG.html)|
 |Cinemachine||2.8.9||[Changes](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.8/changelog/CHANGELOG.html)|
 |Timeline||1.5.7||[Changes](https://docs.unity3d.com/Packages/com.unity.timeline@1.5/changelog/CHANGELOG.html)|
 |Recorder||3.0.3||[Changes](https://docs.unity3d.com/Packages/com.unity.recorder@3.0/changelog/CHANGELOG.html)|
-|ToonShader|:white_check_mark:|0.8.5-preview|**0.9.1-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
-|SelectionGroup|:white_check_mark:|0.8.1-preview|**0.9.1-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.selection-groups@0.8/changelog/CHANGELOG.html)|
-|MaterialSwitch|:white_check_mark:|0.8.2-preview|**0.9.1-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
-|MeshSync||0.17.1-preview||[Changes](https://docs.unity3d.com/Packages/com.unity.meshsync@0.17/changelog/CHANGELOG.html)|
-|Streaming Image Sequence|:white_check_mark:|0.16.1-preview|**0.17.2-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
-|VisualCompositor|:white_check_mark:|0.27.1-preview|**0.28.1-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.27/changelog/CHANGELOG.html)|
+|ToonShader|:white_check_mark:|0.9.1-preview|**0.9.4-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.toonshader@0.8/changelog/CHANGELOG.html)|
+|SelectionGroup||0.9.1-preview||[Changes](https://docs.unity3d.com/Packages/com.unity.selection-groups@0.8/changelog/CHANGELOG.html)|
+|MaterialSwitch|:white_check_mark:|0.9.1-preview|**0.9.2-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.material-switch@0.8/changelog/CHANGELOG.html)|
+|MeshSync|:white_check_mark:|0.17.1-preview|**0.17.2-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.meshsync@0.17/changelog/CHANGELOG.html)|
+|Streaming Image Sequence||0.17.2-preview||[Changes](https://docs.unity3d.com/Packages/com.unity.streaming-image-sequence@0.16/changelog/CHANGELOG.html)|
+|VisualCompositor|:white_check_mark:|0.28.1-preview|**0.29.1-preview**|[Changes](https://docs.unity3d.com/Packages/com.unity.visual-compositor@0.27/changelog/CHANGELOG.html)|
 |Storyboard||0.7.1-preview|||
 
 ## **Highlights**
