@@ -45,11 +45,11 @@ English follows after Japanese.
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/08bf7b85-c952-4627-9533-4511f8772c45)
 
-* **[New]** シーン内で、Compositor Graph を簡単に切り替えるボタンを追加しました。
+* **[New]** シーン内で、**Visual Compositor** オブジェクトを簡単に切り替えるボタンを追加しました。
  
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/59d71e58-59c2-48be-ada1-5563c7a301f8)
 
-* **[New]** Editor での処理負荷を改善するために、**VisualCompositor** コンポネントの中に **CacheObjectsMode** プロパーティを追加しました。
+* **[New]** Editor での処理負荷を改善するために、**Visual Compositor** コンポネントの中に **CacheObjectsMode** プロパーティを追加しました。
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/a006e986-deb5-4ee1-ad3a-3e0f3e095b4c)
 
@@ -85,33 +85,36 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Added Stable Diffusion Txt2Img and Img2Img nodes that work together with Stable Diffusion Web UI.
+* **[New]** Added Shear Node
 
-  https://user-images.githubusercontent.com/71803280/229971027-f1add79f-ef74-4d36-886d-3be4eb3028e5.mp4
+  ![shear-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/f3a7690f-3147-40cc-9dc0-50d9eb359f55)
+
+* **[New]** Added Background port to Render Node. Valid only for forward rendering path. 
+
+  ![image](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/268e4530-90db-4137-99bd-10412ff36d3f)
+
+* **[New]** Added a save button below the node output preview.
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/4e6c27a2-5bdd-400f-b71f-fad18d8e8484)
+
+* **[New]** Added a button to easily create Layer Nodes.
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/08bf7b85-c952-4627-9533-4511f8772c45)
+
+* **[New]** Added a button to easily switch between **Visual Compositor** objects in the scene.
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/59d71e58-59c2-48be-ada1-5563c7a301f8)
+
+* **[New]** Added **CacheObjectsMode** property inside **Visual Compositor** component to improve the performance in the Editor.
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/a006e986-deb5-4ee1-ad3a-3e0f3e095b4c)
 
 
-* **[New]** Added Outline Node with Timeline support.
-
-  ![outline-node](https://user-images.githubusercontent.com/71803280/229971358-b0a04da2-74d3-4a20-8c49-2c4886369697.png)
-
-* **[New]** Added Glow Node with Timeline Support。
-
-  ![](https://user-images.githubusercontent.com/71803280/229971476-cdecc156-e80f-4aab-abfe-cb886c3a07e0.png)
-
-* **[New]** Added support for Final Output Node in HDRP and URP. 
+### **MeshSync**
 
 
-### **ToonShader**
+* **[New]** Made it possible to change the default shader when creating materials during the sync process.
 
-* **[New]** Added support for URP Forward+ in Unity 2022.2 or later.
-
-  ![toon-shader-forward-plus](https://user-images.githubusercontent.com/71803280/229984087-707a80fb-21a7-49bb-bd78-93ee5a319547.png)
-
-
-### **MaterialSwitch**
-
-* **[New]** Added SpriteSwitchClip to override the sprites of SpriteRenderer in the Timeline window.
-
-  ![image](https://user-images.githubusercontent.com/71803280/229985256-ae175850-e72a-4961-beec-8aa3096092bc.png)
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/96f31fa4-1f8d-4c6a-8ea0-91f02aa8c492)
 
 
