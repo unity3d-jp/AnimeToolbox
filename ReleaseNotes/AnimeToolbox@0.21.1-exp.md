@@ -37,7 +37,7 @@ English follows after Japanese.
  
   ![lift-gamma-gain-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/82fcc562-7e1b-4d71-ad5b-2f848bbf70ff)
 
-* **[New]** PatchPanel ノードを追加しました。
+* **[New]** 設定されたレイアウトで複数の入力テクスチャを表示するための PatchPanel ノードを追加しました。
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
@@ -85,7 +85,7 @@ English follows after Japanese.
   ![lift-gamma-gain-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/82fcc562-7e1b-4d71-ad5b-2f848bbf70ff)
 
 
-* **[New]** Added PatchPanel Node.
+* **[New]** Added PatchPanel Node to displays multiple input textures in a set layout.
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
