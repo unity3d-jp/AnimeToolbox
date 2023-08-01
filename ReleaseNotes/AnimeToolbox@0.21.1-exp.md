@@ -41,7 +41,7 @@ English follows after Japanese.
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
-* **[New]** ShadowRendering ノード に **castShadowsOnly** ポートを追加して、オブジェクトがレンダリングされずにシャドウのみをキャストできるようにしました。 
+* **[New]** ShadowRendering ノードに **castShadowsOnly** ポートを追加して、オブジェクトがレンダリングされずにシャドウのみをキャストできるようにしました。 
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/6d82049c-c124-4961-be75-d764d9746ba0)
 
@@ -85,7 +85,7 @@ English follows after Japanese.
   ![lift-gamma-gain-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/82fcc562-7e1b-4d71-ad5b-2f848bbf70ff)
 
 
-* **[New]** Added PatchPanel Node to displays multiple input textures in a set layout.
+* **[New]** Added PatchPanel Node to display multiple input textures in a set layout.
 
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
