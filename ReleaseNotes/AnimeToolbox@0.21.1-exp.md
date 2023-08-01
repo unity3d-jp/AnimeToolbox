@@ -26,40 +26,27 @@ English follows after Japanese.
 
 ## **ハイライト**
 
-
 ### **VisualCompositor**
 
-* **[New]** Shear ノードを追加しました。
- 
-  ![shear-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/f3a7690f-3147-40cc-9dc0-50d9eb359f55)
-
-* **[New]** Render ノードに Background ポートを追加しました。フォワードレンダリングパスの場合のみ有効。
-
-  ![image](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/268e4530-90db-4137-99bd-10412ff36d3f)
- 
-* **[New]** ノードの出力のプレビューの下に、保存ボタンを追加しました。
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/4e6c27a2-5bdd-400f-b71f-fad18d8e8484)
-
-* **[New]** Layer ノードの簡単に作るためのボタンを追加しました。
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/08bf7b85-c952-4627-9533-4511f8772c45)
-
-* **[New]** シーン内で、**Visual Compositor** オブジェクトを簡単に切り替えるボタンを追加しました。
- 
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/59d71e58-59c2-48be-ada1-5563c7a301f8)
-
-* **[New]** Editor での処理負荷を改善するために、**Visual Compositor** コンポネントの中に **CacheObjectsMode** プロパーティを追加しました。
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/a006e986-deb5-4ee1-ad3a-3e0f3e095b4c)
+* **[New]** ColorCurves ノードを追加しました。
+  ![color-curves-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/90252e10-5b9b-4db7-9f51-ea0b12379b56)
 
 
-### **MeshSync**
+* **[New]** LiftGammaGain ノードを追加しました。
+  ![lift-gamma-gain-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/82fcc562-7e1b-4d71-ad5b-2f848bbf70ff)
+
+* **[New]** PatchPanel ノードを追加しました。
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
+
+* **[New]** ShadowRendering ノード に **castShadowsOnly** ポートを追加して、オブジェクトがレンダリングされずにシャドウのみをキャストできるようにしました。 
+
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/6d82049c-c124-4961-be75-d764d9746ba0)
 
 
-* **[New]** マテリアルを作るときのデフォールトシェーダーを変更できるようにしました。
+* **[New]** レンダリングするノードで Terrain (地形)を対応しました。
 
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/96f31fa4-1f8d-4c6a-8ea0-91f02aa8c492)
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c3b666f3-3dc9-4566-88a8-ff0d490ab0f2)
+
 
 ---
 
@@ -85,24 +72,24 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Added ColorCurves Node
+* **[New]** Added ColorCurves Node.
+  ![color-curves-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/90252e10-5b9b-4db7-9f51-ea0b12379b56)
 
 
-* **[New]** Added LiftGammaGain Node
+* **[New]** Added LiftGammaGain Node.
+  ![lift-gamma-gain-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/82fcc562-7e1b-4d71-ad5b-2f848bbf70ff)
 
-* **[New]** Added PatchPanel Node
+
+* **[New]** Added PatchPanel Node.
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
-* **[New]** Override ShadowCastingMode in RenderingNode
-  
-* **[New]** Support Terrain rendering.
+* **[New]** Add **castShadowsOnly** port in ShadowRendering Node to make objects only cast shadows without being rendered.
 
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/6d82049c-c124-4961-be75-d764d9746ba0)
 
-### **MeshSync**
+ 
+* **[New]** Support Terrain rendering in Rendering nodes.
 
-
-* **[New]** Made it possible to change the default shader when creating materials during the sync process.
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/96f31fa4-1f8d-4c6a-8ea0-91f02aa8c492)
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c3b666f3-3dc9-4566-88a8-ff0d490ab0f2)
 
 
