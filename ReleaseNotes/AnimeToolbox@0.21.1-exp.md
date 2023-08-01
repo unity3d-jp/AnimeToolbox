@@ -85,29 +85,17 @@ English follows after Japanese.
 
 ### **VisualCompositor**
 
-* **[New]** Added Shear Node
+* **[New]** Added ColorCurves Node
 
-  ![shear-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/f3a7690f-3147-40cc-9dc0-50d9eb359f55)
 
-* **[New]** Added Background port to Render Node. Valid only for forward rendering path. 
+* **[New]** Added LiftGammaGain Node
 
-  ![image](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/268e4530-90db-4137-99bd-10412ff36d3f)
+* **[New]** Added PatchPanel Node
+  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
-* **[New]** Added a save button below the node output preview.
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/4e6c27a2-5bdd-400f-b71f-fad18d8e8484)
-
-* **[New]** Added a button to easily create Layer Nodes.
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/08bf7b85-c952-4627-9533-4511f8772c45)
-
-* **[New]** Added a button to easily switch between **Visual Compositor** objects in the scene.
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/59d71e58-59c2-48be-ada1-5563c7a301f8)
-
-* **[New]** Added **CacheObjectsMode** property inside **Visual Compositor** component to improve the performance in the Editor.
-
-  ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/a006e986-deb5-4ee1-ad3a-3e0f3e095b4c)
+* **[New]** Override ShadowCastingMode in RenderingNode
+  
+* **[New]** Support Terrain rendering.
 
 
 ### **MeshSync**
