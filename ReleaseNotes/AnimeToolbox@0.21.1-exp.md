@@ -73,14 +73,17 @@ English follows after Japanese.
 ### **VisualCompositor**
 
 * **[New]** Added ColorCurves Node.
+
   ![color-curves-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/90252e10-5b9b-4db7-9f51-ea0b12379b56)
 
 
 * **[New]** Added LiftGammaGain Node.
+
   ![lift-gamma-gain-node](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/82fcc562-7e1b-4d71-ad5b-2f848bbf70ff)
 
 
 * **[New]** Added PatchPanel Node.
+
   ![](https://github.com/unity3d-jp/AnimeToolbox/assets/71803280/c4f8ea88-380a-428e-95fd-9665a169ea27)
 
 * **[New]** Add **castShadowsOnly** port in ShadowRendering Node to make objects only cast shadows without being rendered.
